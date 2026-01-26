@@ -10,3 +10,5 @@ La app está pensada para explorar información relacionada con los viajes y el 
 > Estado del proyecto: en desarrollo.
 
 Este sitio existe únicamente como una página informativa básica del proyecto, alojada mediante GitHub Pages.
+
+[Política de Privacidad](privacidad/)
